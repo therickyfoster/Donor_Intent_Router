@@ -58,19 +58,19 @@ This Next-Gen Feature Pack transforms the Donor Intent Router into a bleeding-ed
 
 ### One-Command Demo Setup
 ```bash
-# Clone and setup complete environment
-curl -fsSL https://INPROGRESS.COM/INGSOON | bash
+# Clone and setup complete environment NOT YET IMPLEMENTED
+curl -fsSL https://planetaryrestorationarchive.com/donor_intent_router/ | bash
 
 # Or manual setup
-git clone https://github.com/donor-intent-router/nextgen-features.git
+git clone https://github.com/therickyfoster/donor-intent-router/nextgen-features.git
 cd nextgen-features
 make demo-start  # Starts all services with docker-compose
 ```
 
 ### Environment Configuration
 ```bash
-# Copy and customize environment
-cp .env.nextgen.example .env.nextgen
+# Copy and customize environment NOT YET IMPLEMENTED
+cp .env.planetaryrestorationarchive.env.nextgen 
 
 # Key toggles for features
 export ENABLE_ZK_PRIVACY=true
