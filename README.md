@@ -59,7 +59,7 @@ This Next-Gen Feature Pack transforms the Donor Intent Router into a bleeding-ed
 ### One-Command Demo Setup
 ```bash
 # Clone and setup complete environment
-curl -fsSL https://get.donor-router.dev/nextgen | bash
+curl -fsSL https://INPROGRESS.COM/INGSOON | bash
 
 # Or manual setup
 git clone https://github.com/donor-intent-router/nextgen-features.git
